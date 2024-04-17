@@ -11,7 +11,7 @@ print(f"""{color.RED}
 {color.RED}Platform      :  {color.WHITE}{platform}
 {color.RED}Discord [02]  :  {color.WHITE}discord.gg/visionservices
 {color.RED}Site    [02]  :  {color.WHITE}visionservicesceibo.000webhostapp.com
-{color.RED}GitHub  [02]  :  {color.WHITE}Soon to come
+{color.RED}GitHub  [02]  :  {color.WHITE}github.com/Snake-Osvet/VisionServices-Tool/
 """ + color.RESET)
 
 Continue()
