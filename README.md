@@ -1,9 +1,9 @@
 <h1 align="center">VisionServices Multi-Tool 🐯</h1> 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/fluzyteck/VisionServices-Tool?label=Version&color=a80505">
-  <img src="https://img.shields.io/github/stars/fluzyteck/VisionServices-Tool?style=flat&label=Stars&color=a80505">
-  <img src="https://img.shields.io/github/repo-size/fluzyteck/VisionServices-Tool?label=Size&color=a80505">
-  <img src="https://img.shields.io/github/languages/top/fluzyteck/VisionServices-Tool?color=a80505">
+  <img src="https://img.shields.io/github/v/release/Snake-Osvet/VisionServices-Tool?label=Version&color=a80505">
+  <img src="https://img.shields.io/github/stars/Snake-Osvet/VisionServices-Tool?style=flat&label=Stars&color=a80505">
+  <img src="https://img.shields.io/github/repo-size/Snake-Osvet/VisionServices-Tool?label=Size&color=a80505">
+  <img src="https://img.shields.io/github/languages/top/Snake-Osvet/VisionServices-Tool?color=a80505">
 
 </p>
 <img src="Img/VisionServices.png" wdth="9999">
