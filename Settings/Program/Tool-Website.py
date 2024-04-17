@@ -27,7 +27,7 @@ if choice in ['2', '02']:
     Reset()
 
 if choice in ['3', '03']:
-    site = f"https://{github_tool}"
+    site = f"https://github.com/Snake-Osvet/VisionServices-Tool/}"
     webbrowser.open_new_tab(site)
     print(f"\n{color.RED}{INFO} Access to the site \"{color.WHITE}{site}{color.RED}\"" + color.RESET)
     Continue()
